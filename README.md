@@ -2,3 +2,4 @@
 
 * Exercice 1 : evenOrOdd
 * Exercice 2 : TVA 
+* Exercice 3 : findNumber
