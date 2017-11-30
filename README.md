@@ -9,7 +9,7 @@ npm install
 npm test
 ```
 
-- Vous travaillerez **uniquement** dans le fichier ./js/fizzBuzz.js à l'interieur de la fonction fizzBuzzGame !
+- Vous travaillerez **uniquement** dans le fichier ./js/fizzBuzz.js et à l'interieur de la fonction fizzBuzzGame !
 
 - Le but est d'afficher dans la console la liste des entiers allant de 1 à 100 en substituant à l'entier :
     - la valeur "Fizz" si l'entier est divisible par 3
