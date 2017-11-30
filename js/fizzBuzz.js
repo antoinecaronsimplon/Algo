@@ -1,6 +1,6 @@
 function fizzBuzz () {
     for(var i = 0; i <= 100; i++){
-        console.log(FizzBuzzGame(i));
+        console.log(fizzBuzzGame(i));
     }
 }
 
@@ -9,6 +9,6 @@ function fizzBuzzGame (i) {
 }
 
 module.exports = {
-    FizzBuzz : fizzBuzz,
-    FizzBuzzGame : fizzBuzzGame,
+    fizzBuzz : fizzBuzz,
+    fizzBuzzGame : fizzBuzzGame,
 }
