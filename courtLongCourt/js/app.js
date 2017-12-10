@@ -1,6 +1,8 @@
 
 function addString (a, b) {
-    //TODO
+	console.log(b);
+	var array = [a, b, a];
+		return a+b+a;
 }
 
 
