@@ -1,6 +1,7 @@
 
 function getHtPrice (price) {
- // TODO
+	var tva = (price/1.196);
+	return parseFloat (tva.toFixed(2));
 }
 
 
